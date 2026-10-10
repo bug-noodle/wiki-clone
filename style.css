@@ -1,0 +1,104 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: white;
+color: #202122;
+}
+.all {
+width: 95%;
+margin: auto;
+}
+.head {
+padding: 15px;
+}
+.head h2 {
+font-size: 35px;
+margin-bottom: 0;
+}
+.head p {
+font-size: 12px;
+margin-left: 40px;
+margin-top: -5px;
+}
+.boxparents {
+display: flex;
+gap: 20px;
+}
+.box1 {
+width: 20%;
+padding: 15px;
+}
+.box1 ul {
+padding-left: 20px;
+}
+.box1 li {
+margin: 12px 0;
+}
+.box1 a {
+text-decoration: none;
+color: #3366cc;
+}
+.box2 {
+width: 55%;
+padding: 15px;
+}
+.box2 h1 {
+font-size: 32px;
+}
+.tabs a {
+margin-right: 15px;
+text-decoration: none;
+color: #3366cc;
+}
+
+.intro {
+font-size: 18px;
+line-height: 1.6;
+margin-left: 25px;
+}
+
+.s1 p {
+line-height: 1.6;
+}
+
+.box3 {
+width: 25%;
+padding: 15px;
+}
+
+.box3 img {
+width: 100%;
+}
+
+.box3 table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 15px;
+background-color: #f8f9fa;
+}
+
+.box3 th,
+.box3 td {
+border: 1px solid #aaa;
+padding: 8px;
+text-align: left;
+}
+
+.box3 th {
+width: 40%;
+}
+
+a {
+color: #3366cc;
+}
+
+button {
+padding: 3px 8px;
+}
+.search{
+    float: right;
+    position: relative;
+    top: -50px;
+    left: -200px;
+
+}
